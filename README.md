@@ -2,3 +2,9 @@
 
 # KiLee.cn
 KiLee(Karoli Lee)'s personal website&amp; web dev practice proj.s for fun &amp; study meanwhile
+- Liquid Glass effect
+- Mockups: Apple brand product
+- shots.so bg
+
+---
+Just A stu learn and do fun for it 
